@@ -1,0 +1,27 @@
+#ifndef CLCIRCLE_
+#define CLCIRCLE_
+
+
+class clCircle
+{
+    public:
+        clCircle();
+        virtual ~clCircle();
+
+        int Getx() { return x; }
+        void Setx(int val) { x = val; }
+        int Gety() { return y; }
+        void Sety(int val) { y = val; }
+        int Getr() { return r; }
+        void Setr(int val) { r = val; }
+
+        int x;
+        int y;
+        int r;
+
+    protected:
+
+    private:
+};
+
+#endif // CLCIRCLE_

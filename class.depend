@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1633001701 source:c:\users\yanas\desktop\class\cledge.cpp
+	"clEdge.h"
+
+1633001701 c:\users\yanas\desktop\class\cledge.h
+	"clNode.h"
+
+1631186035 c:\users\yanas\desktop\class\cldraw.h
+	<iostream>
+	<graphics.h>
+
+1631188551 source:c:\users\yanas\desktop\class\clcircle.cpp
+	"clCircle.h"
+
+1631188531 c:\users\yanas\desktop\class\clcircle.h
+	"clDraw.h"
+
+1632941989 source:c:\users\yanas\desktop\class\clnode.cpp
+	"clNode.h"
+
+1633006452 c:\users\yanas\desktop\class\clnode.h
+	"clCircle.h"
+
+1633002486 source:c:\users\yanas\desktop\class\main.cpp
+	"clGraph.h"
+
+1633000415 c:\users\yanas\desktop\class\clgraph.h
+	<vector>
+	"clNode.h"
+	"clDraw.h"
+	"clEdge.h"
+
+1633006412 source:c:\users\yanas\desktop\class\clgraph.cpp
+	"clGraph.h"
+
